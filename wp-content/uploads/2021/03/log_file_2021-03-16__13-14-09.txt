@@ -1,0 +1,268 @@
+
+---Downloaded files---
+The import files for: Import SKT Fitness Lite Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/Gym/wordpress
+Data file = /opt/lampp/htdocs/Gym/wordpress/wp-content/themes/skt-fitness-lite/demo-content/demo-content.xml
+Widget file = not defined!
+Customizer file = not defined!
+
+------
+Completed AJAX call number: 1
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+[ERROR] Failed to import "service-img1" (Media)
+
+
+------
+Completed AJAX call number: 2
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+[ERROR] Failed to import "service-img1" (Media)
+[ERROR] Failed to import "project-img2" (Media)
+[ERROR] Failed to import "project-img3" (Media)
+[ERROR] Failed to import "blog-img3" (Media)
+[ERROR] Failed to import "blog-img1" (Media)
+
+
+------
+Completed AJAX call number: 3
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+[ERROR] Failed to import "service-img1" (Media)
+[ERROR] Failed to import "project-img2" (Media)
+[ERROR] Failed to import "project-img3" (Media)
+[ERROR] Failed to import "blog-img3" (Media)
+[ERROR] Failed to import "blog-img1" (Media)
+[ERROR] Failed to import "blog-img2" (Media)
+[ERROR] Failed to import "team-member-img4" (Media)
+[ERROR] Failed to import "team-member-img1" (Media)
+[ERROR] Failed to import "team-member-img2" (Media)
+[ERROR] Failed to import "team-member-img3" (Media)
+[ERROR] Failed to import "gallery-img4" (Media)
+[ERROR] Failed to import "gallery-img3" (Media)
+
+
+------
+Completed AJAX call number: 4
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+[ERROR] Failed to import "service-img1" (Media)
+[ERROR] Failed to import "project-img2" (Media)
+[ERROR] Failed to import "project-img3" (Media)
+[ERROR] Failed to import "blog-img3" (Media)
+[ERROR] Failed to import "blog-img1" (Media)
+[ERROR] Failed to import "blog-img2" (Media)
+[ERROR] Failed to import "team-member-img4" (Media)
+[ERROR] Failed to import "team-member-img1" (Media)
+[ERROR] Failed to import "team-member-img2" (Media)
+[ERROR] Failed to import "team-member-img3" (Media)
+
+
+------
+Completed AJAX call number: 5
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+
+
+------
+Completed AJAX call number: 6
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+[ERROR] Failed to import "service-img1" (Media)
+
+
+------
+Completed AJAX call number: 7
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+
+
+------
+Completed AJAX call number: 7
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+
+
+------
+Completed AJAX call number: 7
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+
+
+------
+Completed AJAX call number: 8
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+
+
+------
+Completed AJAX call number: 8
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+
+
+------
+Completed AJAX call number: 8
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+
+
+------
+Completed AJAX call number: 9
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+[ERROR] Failed to import "service-img1" (Media)
+[ERROR] Failed to import "project-img2" (Media)
+[ERROR] Failed to import "project-img3" (Media)
+[ERROR] Failed to import "blog-img3" (Media)
+
+
+------
+Completed AJAX call number: 10
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+
+
+------
+Completed AJAX call number: 11
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "our-client" (Media)
+[ERROR] Failed to import "dot-img" (Media)
+
+
+------
+Completed AJAX call number: 12
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+
+
+------
+Completed AJAX call number: 13
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+
+
+------
+Completed AJAX call number: 14
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+
+
+------
+Completed AJAX call number: 15
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+
+
+------
+Completed AJAX call number: 16
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+
+
+------
+Completed AJAX call number: 17
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+
+
+------
+Completed AJAX call number: 18
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+
+
+------
+Completed AJAX call number: 19
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+[ERROR] Failed to import "service-img3" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+
+
+------
+Completed AJAX call number: 20
+[ERROR] Failed to import "Theme Demo Import - log_file_2020-05-05__05-21-12" (Media)
+[ERROR] Failed to import "video-banner" (Media)
+[ERROR] Failed to import "service-img2" (Media)
+
